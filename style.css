@@ -1,0 +1,38 @@
+body{
+    background-color: #a9a9a9;
+}
+h2{
+    color: #A91B0D;
+}
+h6{
+    text-align:left;
+    font-size: 30px;
+    color:black
+}
+.contact_2{
+    text-align: right;
+}
+.computers{
+    text-align: left;
+}
+h4{
+    text-align: center;
+}
+.modal-content{
+    margin-top: 100px;
+}
+
+.img modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+    text-align: center;
+}
+h7{
+    font-size: 15px;
+}
